@@ -1,0 +1,43 @@
+wampmysqld64, Version: 5.7.31-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3309, Named Pipe: /tmp/mysql.sock
+Time                 Id Command    Argument
+2021-05-24T03:15:37.553234Z	    2 Connect	root@localhost on  using TCP/IP
+2021-05-24T03:15:37.554043Z	    2 Query	SELECT @@version, @@version_comment
+2021-05-24T03:15:37.559965Z	    2 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+2021-05-24T03:15:37.560384Z	    2 Query	SET lc_messages = 'vi_VN'
+2021-05-24T03:15:37.584436Z	    3 Connect	root@localhost on  using TCP/IP
+2021-05-24T03:15:37.593979Z	    2 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+2021-05-24T03:15:37.625973Z	    2 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+2021-05-24T03:15:37.628277Z	    2 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+2021-05-24T03:15:37.672316Z	    3 Quit	
+2021-05-24T03:15:37.672449Z	    2 Quit	
+2021-05-24T03:34:12.320141Z	    4 Connect	root@localhost on  using TCP/IP
+2021-05-24T03:34:12.320489Z	    4 Query	SELECT @@version, @@version_comment
+2021-05-24T03:34:12.321041Z	    4 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+2021-05-24T03:34:12.321275Z	    4 Query	SET lc_messages = 'vi_VN'
+2021-05-24T03:34:12.335436Z	    5 Connect	root@localhost on  using TCP/IP
+2021-05-24T03:34:12.337946Z	    4 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+2021-05-24T03:34:12.342044Z	    4 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+2021-05-24T03:34:12.342351Z	    4 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+2021-05-24T03:34:12.350387Z	    5 Quit	
+2021-05-24T03:34:12.350451Z	    4 Quit	
+2021-05-24T03:52:28.308764Z	    6 Connect	root@localhost on  using TCP/IP
+2021-05-24T03:52:28.309069Z	    6 Query	SELECT @@version, @@version_comment
+2021-05-24T03:52:28.309720Z	    6 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+2021-05-24T03:52:28.309937Z	    6 Query	SET lc_messages = 'vi_VN'
+2021-05-24T03:52:28.324597Z	    7 Connect	root@localhost on  using TCP/IP
+2021-05-24T03:52:28.326187Z	    6 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+2021-05-24T03:52:28.329323Z	    6 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+2021-05-24T03:52:28.329610Z	    6 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+2021-05-24T03:52:28.337495Z	    7 Quit	
+2021-05-24T03:52:28.337660Z	    6 Quit	
+2021-05-24T04:10:26.313097Z	    8 Connect	root@localhost on  using TCP/IP
+2021-05-24T04:10:26.313444Z	    8 Query	SELECT @@version, @@version_comment
+2021-05-24T04:10:26.313939Z	    8 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+2021-05-24T04:10:26.314179Z	    8 Query	SET lc_messages = 'vi_VN'
+2021-05-24T04:10:26.328017Z	    9 Connect	root@localhost on  using TCP/IP
+2021-05-24T04:10:26.329484Z	    8 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+2021-05-24T04:10:26.332507Z	    8 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+2021-05-24T04:10:26.332824Z	    8 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+2021-05-24T04:10:26.341207Z	    9 Quit	
+2021-05-24T04:10:26.341279Z	    8 Quit	
